@@ -1,0 +1,2 @@
+Sebelum menggunakan applikasi:
+Extract semua file dalam WebScrapped_data/scv
